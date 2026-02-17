@@ -5,7 +5,7 @@ Mezcla letras, controla intentos y saltos, muestra puntaje en tiempo real y conf
 
 **Cómo jugar:** Adivina la palabra desordenada antes de agotar tus intentos o saltos.
 
-[Ver demo en Netlify](#)
+[Ver demo en Netlify](https://app-scramble-words.netlify.app/)
 
 ## Tecnologías
 - React, TypeScript
